@@ -1,0 +1,1 @@
+{"name":"aitools12/veo-3-5","description":"Minimal Packagist metadata package for the Veo 3.5 AI video generator at voe35.com.","type":"library","license":"MIT","homepage":"https://www.voe35.com/","keywords":["veo-3-5","ai-video-generator","text-to-video","image-to-video"],"autoload":{"psr-4":{"Veo35\\":"src/"}},"support":{"source":"https://github.com/aitools12/veo-3-5"}}
